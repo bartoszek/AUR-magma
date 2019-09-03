@@ -5,3 +5,4 @@
 !*.install
 !*.patch
 !*.diff
+!.travis.yml
